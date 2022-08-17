@@ -1,0 +1,37 @@
+.mw {
+  display: flex;
+  align-items: flex-start;
+  margin: 20px;
+}
+
+.mw-description {
+  margin-top: 0%;
+}
+
+.mw-text-box {
+  min-height: 100px;
+}
+
+.mw-img-box {
+  background-color: black;
+  color: aliceblue;
+  /* display: inline-block; */
+  border: 3px solid black;
+}
+.img-box-text {
+  margin: 7px;
+  font-size: 24px;
+  text-align: center;
+}
+.img-box-text-2 {
+  display: table;
+  margin: 7px;
+  font-size: 22px;
+  color: azure;
+  padding-left: 10px;
+  text-align: center;
+}
+
+img {
+  min-height: 250px;
+}
